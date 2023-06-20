@@ -1,6 +1,6 @@
 ### Hi there, I'm qsw 👋
 
-I am working on Tencent, iQiyi, JD.com, Suning, Mango, Sohu, Youku, LeTV, and Tudou. All over the members
+I work as a security guard at Tencent, iQiyi, JD.com, Suning, Mango, Sohu, Youku, LeTV, and Tudou
 
 Welcome to my github
 
